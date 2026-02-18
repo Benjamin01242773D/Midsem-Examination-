@@ -1,2 +1,8 @@
-# Midsem-Examination-
-Digital Attendance 
+Course: EEE227
+Date: 2026-02-18
+Start: 08:00
+Duration: 2
+---
+INDEX123 P
+INDEX456 L
+INDEX789 A
