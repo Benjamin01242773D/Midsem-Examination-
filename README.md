@@ -1,2 +1,1 @@
-# Midsem-Examination-
-Digital Attendance 
+01242773D Benjamin Nii Komey Tetteh 
